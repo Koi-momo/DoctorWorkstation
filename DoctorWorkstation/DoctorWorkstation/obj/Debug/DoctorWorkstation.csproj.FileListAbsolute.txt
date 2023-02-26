@@ -1,0 +1,12 @@
+C:\Users\Administrator\Source\Repos\DoctorWorkstation\DoctorWorkstation\DoctorWorkstation\bin\Debug\DoctorWorkstation.exe.config
+C:\Users\Administrator\Source\Repos\DoctorWorkstation\DoctorWorkstation\DoctorWorkstation\bin\Debug\DoctorWorkstation.exe
+C:\Users\Administrator\Source\Repos\DoctorWorkstation\DoctorWorkstation\DoctorWorkstation\bin\Debug\DoctorWorkstation.pdb
+C:\Users\Administrator\Source\Repos\DoctorWorkstation\DoctorWorkstation\DoctorWorkstation\obj\Debug\DoctorWorkstation.csproj.AssemblyReference.cache
+C:\Users\Administrator\Source\Repos\DoctorWorkstation\DoctorWorkstation\DoctorWorkstation\obj\Debug\DoctorWorkstation.csproj.SuggestedBindingRedirects.cache
+C:\Users\Administrator\Source\Repos\DoctorWorkstation\DoctorWorkstation\DoctorWorkstation\obj\Debug\DoctorWorkstation.Login.resources
+C:\Users\Administrator\Source\Repos\DoctorWorkstation\DoctorWorkstation\DoctorWorkstation\obj\Debug\DoctorWorkstation.Main.resources
+C:\Users\Administrator\Source\Repos\DoctorWorkstation\DoctorWorkstation\DoctorWorkstation\obj\Debug\DoctorWorkstation.Properties.Resources.resources
+C:\Users\Administrator\Source\Repos\DoctorWorkstation\DoctorWorkstation\DoctorWorkstation\obj\Debug\DoctorWorkstation.csproj.GenerateResource.cache
+C:\Users\Administrator\Source\Repos\DoctorWorkstation\DoctorWorkstation\DoctorWorkstation\obj\Debug\DoctorWorkstation.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Source\Repos\DoctorWorkstation\DoctorWorkstation\DoctorWorkstation\obj\Debug\DoctorWorkstation.exe
+C:\Users\Administrator\Source\Repos\DoctorWorkstation\DoctorWorkstation\DoctorWorkstation\obj\Debug\DoctorWorkstation.pdb

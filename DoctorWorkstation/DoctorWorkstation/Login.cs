@@ -44,5 +44,10 @@ namespace DoctorWorkstation
                 this.txtBox_Password.SelectAll();                                              //密码文本框内所有文本被选中；
             }
         }
+
+        private void Login_Load(object sender, EventArgs e)
+        {
+
+        }
     }
 }

@@ -119,6 +119,7 @@
             this.Controls.Add(this.btn_Login);
             this.Name = "Login";
             this.Text = "登录";
+            this.Load += new System.EventHandler(this.Login_Load);
             this.ResumeLayout(false);
             this.PerformLayout();
 
